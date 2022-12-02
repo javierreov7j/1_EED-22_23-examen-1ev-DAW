@@ -1,0 +1,4 @@
+Modelo cascada
+Modelo cascada con feedback
+Modelo iterativo
+Modelos agile
